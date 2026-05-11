@@ -168,7 +168,7 @@ export default function Home() {
             </a>
 
             <a
-              href="ranidy632@email.com"
+              href="mailto:ranidy632@email.com"
               className="border border-slate-700 px-8 py-4 rounded-2xl hover:bg-slate-800 transition"
             >
               Email
