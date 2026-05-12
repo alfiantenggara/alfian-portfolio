@@ -65,7 +65,7 @@ export default function Home() {
               </a>
 
               <a
-                href="/cv/Alfian-CV.pdf"
+                href="./Curriculum Vitae A Alfian Tenggara Putra.pdf"
                 className="border border-slate-700 px-8 py-4 rounded-2xl hover:bg-slate-800 transition"
               >
                 Download CV
