@@ -54,7 +54,7 @@ export default function Home() {
   const experiences = [
     {
       role: "President of Google Developer Group On Campus",
-      org: "Google Developers Group",
+      org: "Google Developers Group On Campus Universitas Ciputra Makassar",
       time: "Oct 2024 — Oct 2025",
     },
     {
@@ -98,17 +98,17 @@ export default function Home() {
       time: "Jan 2022 — Jan 2023",
     },
     {
-      role: "Engineering Physics Week 2024",
+      role: "Participants Engineering Physics Week 2024",
       org: "Institut Teknologi Sepuluh Nopember",
       time: "2024",
     },
     {
-      role: "Polines Robotic Contest 2024",
+      role: "Participants Polines Robotic Contest 2024",
       org: "Politeknik Negeri Semarang",
       time: "2024",
     },
     {
-      role: "Hasanuddin Techno Fest #8",
+      role: "Participants Hasanuddin Techno Fest #8",
       org: "Universitas Hasanuddin",
       time: "2024",
     },
